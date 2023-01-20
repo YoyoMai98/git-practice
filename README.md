@@ -1,8 +1,9 @@
 ### About Me
 
 **Hobbies**:
-  - Watching Films
-  - Listening to Music
+  - Movies & TV shows
+  - Musicals & Plays
+  - Travelling
 
 **Languages**:
   * JavaScript
