@@ -1,6 +1,6 @@
 ### About Me
 
 **Languages**:
-  - JavaScript
-  - Java
-  - Python
+  * JavaScript
+  * Java
+  * Python
